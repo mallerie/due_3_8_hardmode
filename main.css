@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0; 
+}
+
+.clock {
+  position: absolute;
+  top: 40%;
+  left: calc(50% - 175px);
+  color: white;
+  text-shadow: black;
+  font-size: 6em;
+  font-family: 'roboto', sans-serif;
+}
+
